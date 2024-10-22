@@ -1,3 +1,5 @@
+"use client";
+
 import ThemeSwitcher from "../ThemeSwitcher";
 
 export default function Header() {
